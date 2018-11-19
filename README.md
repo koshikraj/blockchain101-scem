@@ -1,6 +1,8 @@
 # blockchain101-scem
 Blockchain workshop @ SCEM
 
+Find the speaker deck slides [here](https://speakerdeck.com/koshikraj/basics-of-blockchain-and-decentralized-applications)
+
 ## Agenda
 
 ### Session 1 
