@@ -48,22 +48,22 @@ npm install -g truffle
 
 ```
 
-## Hello World smart contract
+Create an issue if there is any flaw in the documentation or the contract.
 
-```truffle init
-   
-   truffle migrate
-   
-   truffle console
+You are also welcome to contribute to the project:
 
-```
+* Create a feature issue
 
-## Proof of Ownership DApp
+* Fork the repo
 
-```truffle unbox react
-   
-   truffle migrate
-   
-   npm start
+* Commit your changes with appropriate message and also point the created issue
 
-```
+    Ex: fixes proof of ownership contract: issue #1
+
+* Create a Pull request (PR) from your repo to this repo
+
+* Point the issue in a comment of the PR.
+
+
+Thanks! 
+  
